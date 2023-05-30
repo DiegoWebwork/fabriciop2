@@ -5,7 +5,7 @@
 # Disciplina: Laboratório de Programação de Web Sites Dinâmicos 6º Periodo
 # Professor: Fabricio Dias
 
-
+# Url do projeto rodando: https://diegowebwork.github.io/fabriciop2/
 
 # Introdução:
 Aqui esta a p2 sobre web sites dinamicos ministrada pelo professor Fabricio, nela se deve criar um sistema de autenticação, com no minimo três paginas e um dashboard interativo, acerca do login segue abaixo as credenciais, caso o usuario perca ou erre as credenciais na validação aparecera uma mensagem apontando o erro
